@@ -1,0 +1,6 @@
+fluidsynth-2.1.5/*
+mingus/*
+instruments/*
+# OS generated files #
+######################
+.DS_Store
